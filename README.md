@@ -11,8 +11,13 @@ to make richyflix i got my inspiration from netflix, and its primary funcitons l
 thanks to all the cs50 staff!
 
 # Usage
+first you gotta run the following command on your terminal:
 
-you gotta make your own ENV file with the next fields:
+```
+npm i .
+```
+
+then you gotta make your own ENV file with the next fields:
 
 if you need more info email me: theilluminatiduck@gmail.com
 
@@ -37,3 +42,4 @@ SESSION_SECRET=
 // TWITTER
 TWITTER_CONSUMER_KEY=
 TWITTER_CONSUMER_SECRET=
+
