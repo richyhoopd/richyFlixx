@@ -9,3 +9,31 @@ Another function of my application is an authentication system, with it I keep a
 to make richyflix i got my inspiration from netflix, and its primary funcitons like play movies, and have colections, trendings etc... actually there is where the name "richyflix" came
 
 thanks to all the cs50 staff!
+
+# Usage
+
+you gotta make your own ENV file with the next fields:
+
+if you need more info email me: theilluminatiduck@gmail.com
+
+// CONFIG
+PORT=
+
+ENV=
+
+// API URL
+API_URL=
+
+// API KEYS
+API_KEY_TOKEN=
+
+// OAUTH
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+// SESSION
+SESSION_SECRET=
+
+// TWITTER
+TWITTER_CONSUMER_KEY=
+TWITTER_CONSUMER_SECRET=
